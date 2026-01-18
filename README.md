@@ -61,4 +61,4 @@ py main.py
 
 ## Resources:
 * https://chatgpt.com/share/696cc9d0-a2f4-8003-aa7d-f5f3d39b8a2d
-* https://gemini.google.com/app/12d1c58abbb84fed?hl=cs
+* https://gemini.google.com/share/9b6a6959e7e4
